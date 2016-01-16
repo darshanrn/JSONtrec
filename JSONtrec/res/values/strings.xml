@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSONtrec</string>
+    <string name="hello_world">Here is the random list!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loadingMessage">Getting you the amazing stuff!</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+
+</resources>
