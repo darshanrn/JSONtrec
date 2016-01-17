@@ -142,3 +142,12 @@ Events injected: 500
 ## Network stats: elapsed time=6181ms (6181ms mobile, 0ms wifi, 0ms not connecte
 d)
 // Monkey finished
+
+# Few screenshots of the application
+
+![alt tag](https://github.com/darshanrn/JSONtrec/blob/master/JSONtrec/assets/JSONtrec_1.png)
+![alt tag](https://github.com/darshanrn/JSONtrec/blob/master/JSONtrec/assets/JSONtrec_2.png)
+![alt tag](https://github.com/darshanrn/JSONtrec/blob/master/JSONtrec/assets/JSONtrec_3.png)
+
+# Unit test results
+![alt tag](https://github.com/darshanrn/JSONtrec/blob/master/JSONtrec/assets/unit_test_results.PNG)
